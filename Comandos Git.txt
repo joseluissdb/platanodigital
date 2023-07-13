@@ -1,8 +1,15 @@
 Comandos Git
 
+Cuenta Github: plus@
+clave Epsm44
+
 git init
 git config --global user.email epsilonm44-plus
-creamos un documento y lo guardamos
+
+Creamos un documento y lo guardamos
 git add .
 git status
 git commit -m "Se creó el documento doc.txt."
+git push -u origin main
+
+Se debe copiar del archivo git hub las últimas tres líneas:
